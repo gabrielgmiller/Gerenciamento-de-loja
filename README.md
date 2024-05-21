@@ -85,7 +85,7 @@ LojaManager é um aplicativo desenvolvido em C que simula o gerenciamento de uma
 0. Sair
 Escolha uma opção:
 
-### Interações
+----------------------
 
 1. Criar Base
 2. Adicionar
