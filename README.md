@@ -1,4 +1,3 @@
-# Gerenciamento-de-loja
 
 # LojaManager
 
